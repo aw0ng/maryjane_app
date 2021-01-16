@@ -1,9 +1,9 @@
 {
-  id: @product.id
-  name: @product.name
-  strain: @product.strain
-  price_per_gram: @product.price_per_gram
-  mood: @product.mood
-  thc_percentage: @product.thc_percentage
+  id: @product.id,
+  name: @product.name,
+  strain: @product.strain,
+  price_per_gram: @product.price_per_gram,
+  mood: @product.mood,
+  thc_percentage: @product.thc_percentage,
   image_url: @product.image_url
 }
